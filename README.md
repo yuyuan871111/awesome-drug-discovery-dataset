@@ -3,4 +3,4 @@
 A curated list of awesome drug discovery dataset. Please feel free to [contribute](CONTRIBUTING.md) !
 
 ## Contents
-GPCR-MD: https://gpcrmd.org/#analysis_pockets_pan
+GPCR-MD: https://gpcrmd.org/
