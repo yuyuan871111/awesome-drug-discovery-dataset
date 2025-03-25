@@ -1,4 +1,5 @@
-# Awesome drug discovery dataset [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome drug discovery dataset [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 
 A curated list of awesome drug discovery dataset. Please feel free to [contribute](Contribution.md) !
 
