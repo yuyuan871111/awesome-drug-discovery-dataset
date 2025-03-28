@@ -5,7 +5,7 @@ A curated list of awesome drug discovery dataset. Please feel free to [contribut
 
 ## Contents
 GPCR-MD: https://gpcrmd.org/
-
+PLINDER: https://www.plinder.sh/
 
 ## See also
 * [Survey_AI_Drug_Discovery](https://github.com/dengjianyuan/Survey_AI_Drug_Discovery)
